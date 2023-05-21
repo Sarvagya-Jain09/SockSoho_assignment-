@@ -1,0 +1,42 @@
+.btns{
+    height : 2rem;
+    width : 5rem;
+    border-radius: 0.5rem;
+    border-width: 1px;
+    margin: 0.5rem;
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+.textbox{
+    height : 2rem;
+    width: 60%;
+    border-width: 2px ;
+    border-radius: 0.2rem;
+    margin: 0.5rem;
+
+}
+
+table{
+    width: 100%;
+    border-width: 1px;
+}
+.containerhead{
+    height:2.5rem;
+    justify-content: center;
+    /* border: 1px solid black; */
+    color: white;
+    background-color: black;
+}
+td{
+    justify-content: center;
+    text-align: center;
+    border: 1px solid black;
+}
+tr{
+    border-width:2px; 
+}
+.ttle{
+    width : 20rem;
+    font-weight: bold;
+}
